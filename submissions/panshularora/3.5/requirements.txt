@@ -1,0 +1,10 @@
+Django>=4.2,<5.0
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+celery
+redis
+django-celery-beat
+django-celery-results
+requests
+tenacity
